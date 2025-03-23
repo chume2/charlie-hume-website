@@ -15,7 +15,7 @@ const Home = () => {
       <section className="about-section">
         <h2>About Me</h2>
         <p>
-          My name is Charlie Hume. I am a passionate software engineer with a rare talent for solving problems. I am set to graduate from Villanova 
+          My name is Charlie Hume. I am a passionate software engineer with a rare talent for solving problems. I am set to graduate in May of 2025 from Villanova 
           University with bachelor's degrees in both Computer Science and Mathematics. With experience in modern web technologies and a commitment to continuous learning, I am a valuable member of 
           every team I'm on. What drives me is my desire to bring impactful solutions to as many people as I can.
         </p>
